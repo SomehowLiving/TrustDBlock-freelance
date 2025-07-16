@@ -80,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - Project Link: [https://github.com/somehowliving/trustdblock-freelance](https://github.com/somehowliving/trustdblock-freelance)
-- Website: trustdblock.vercel.com
+- Website: trustdblock.vercel.app
